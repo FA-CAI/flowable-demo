@@ -1,7 +1,7 @@
 # flowable
 
 #### 介绍
-flowable学习 可以入群：633168411
+
 
 #### 软件架构
 本系统采用微服务的架构设计
@@ -41,8 +41,8 @@ admin/test
 
 
 #### 使用说明
-*由于群里有些朋友对这个flowable还不是 很熟悉，在群里的小伙伴的建议下，我制作一个开源的项目源码，一共大家学习和交流，希望对有帮助，少走弯路  如果有不懂的问题可以入群：633168411  里面都是一些热心肠的人*
-## 项目地址：https://gitee.com/lwj/flowable.git
+
+## 原项目地址：https://gitee.com/lwj/flowable.git
 1、导入数据库  所有的密码都是test  账号是00000001到0000004
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191128112800979.png)
 2、运行rest 服务
@@ -68,8 +68,6 @@ admin/test
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191128113702634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXdlbmp1bjA1MTAx,size_16,color_FFFFFF,t_70)
 *由于水平有限，如果有什么写的有问题的地方，请及时联系我，我会一步步的把这些年的经验都分享出来*
 
-#### 参与贡献
 
-1.  热水 天道酬勤 浩然 小徐
 
 缺省的包在  flowable/docs/缺省的tools包/tools-1.0-SNAPSHOT.jar
